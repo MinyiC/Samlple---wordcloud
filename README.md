@@ -7,7 +7,7 @@
    
  # Use JSON file:
 
-# download it as 2.7G as .tar format (.tar means double compressed)
+# download it as 2.7G .tar format (.tar means double compressed)
 
 # get free 7 zip: https://www.7-zip.org/
 
