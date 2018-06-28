@@ -1,7 +1,10 @@
 
 Yelp Dataset Challenge
+
     Discover what insights lie hidden in our data.
+    
    https://www.yelp.com/dataset/challenge
+   
    Three data files: JSON, SQL, Images
    
  Use JSON file:
